@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+#Data files
+*.zip
+*.csv
+
+#Ipython Notebook
+.ipynb_checkpoints
