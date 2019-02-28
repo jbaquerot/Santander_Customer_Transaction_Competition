@@ -108,5 +108,8 @@ venv.bak/
 *.zip
 *.csv
 
-#Ipython Notebook
+# Ipython Notebook
 .ipynb_checkpoints
+
+# Kaggle
+/docker/kaggle.json
